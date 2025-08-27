@@ -1,0 +1,33 @@
+			<li class="hover-me2"><a href="teachers/Lecturer.html"style="
+		font-family: book antique;
+	    font-size: .75em;
+	    color:white; text-decoration:none;">INSTRUCTOR></a>
+	    <div class="sub-03">
+			<ul>
+				<li><a href="teachers/Lecturer/utme.html" style="
+		font-family: book antique;
+	    font-size:  .75em;
+	   	color:white; text-decoration:none;">UTME</a></li>
+		
+			<li><a href="teachers/Lecturer/putme.html" style="
+		font-family: book antique;
+	    font-size:  .75em;
+	    color:white; text-decoration:none;">PUTME</a></li>
+
+		<li><a href="teachers/Lecturer/nce.html" style="
+		font-family: book antique;
+	    font-size:  .75em;
+	  	color:white; text-decoration:none;">NCE</a></li>
+
+		<li><a href="teachers/Lecturer/poly.html" style=" 
+		font-family: book antique;
+	    font-size:  .75em;
+	  	color:white; text-decoration:none;">POLYTEHNIC</a></li>
+
+		<li><a href="teachers/Lecturer/uni.html" style=" 
+		font-family: book antique;
+	  	font-size:  .75em;
+	    color:white; text-decoration:none;">UNIVERSITY</a></li>
+	</ul>
+		</li>
+			</div>
