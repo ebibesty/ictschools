@@ -526,6 +526,7 @@
        }
 ul .primary-nav2{
        margin-top:1em;
+       
 }
 
        
@@ -911,6 +912,7 @@ ul .primary-nav2{
        padding:10px 0px;
        /*font-size: 1.5em;*/
        font-style: normal;
+       margin-left:-0.5em;
        }
        
        .logo2{
