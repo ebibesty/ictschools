@@ -914,7 +914,9 @@ ul .primary-nav2{
        font-style: normal;
        margin-left:-0.5em;
        }
-       
+a.logo{
+       padding-left:-2em;
+}
        .logo2{
        text-decoration: none;
        font-weight: bold;
