@@ -910,9 +910,10 @@ ul .primary-nav2{
        font-weight: bold;
        color: black;
        padding:10px 0px;
-       /*font-size: 1.5em;*/
+       font-size: 1.5em;
        font-style: normal;
        margin-left:-0.5em;
+       margin-right:-1em;
        }
 
        .logo2{
