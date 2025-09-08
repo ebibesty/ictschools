@@ -359,6 +359,7 @@
        /* font-size:18.5px; */
        color: white;
        text-transform:initial;
+       margin-top:1em;
        }
        .navbar li a:hover{
        /* border:1px solid whitesmoke; */
