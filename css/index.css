@@ -848,7 +848,7 @@
        visibility: visible;
        }
        .primary-nav{
-       margin-top: 2.5em;
+       margin-top: 1em;
        }
        
        input[type=text]:focus {
@@ -1292,14 +1292,14 @@
        
        }
        
-       .w3-content-w3-section{
+/*        .w3-content-w3-section{
        margin-right:2em; 
        height:50px;
        max-width:700px;
        margin-left: 2em; 
        margin-top:6.5em; 
        margin-bottom: 2em;
-       }
+       } */
        .slides{
        border-radius:2em;
        width:700px;
