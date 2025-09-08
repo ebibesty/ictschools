@@ -455,6 +455,7 @@
               color: white;
               text-transform:capitalize;
               /* padding-left:2px; */
+              
        }
        
        
@@ -1638,8 +1639,8 @@
        }
        .navbar1 .container{
        background:var(--secondary-color);
-       display: grid;
-       grid-template-columns:180 auto ;
+       display: flex;
+/*        grid-template-columns:180 auto ; */
        
        }
        /* body{
